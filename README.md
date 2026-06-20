@@ -1,12 +1,19 @@
-# Data Engineering Portfolio
+# Telecom Billing ETL Pipeline
 
-## Projects
+## Project Overview
+This project simulates a telecom billing system and performs ETL (Extract, Transform, Load) using Python.
 
-### 1. Telecom Billing ETL Pipeline
+## Features
+- Load raw billing data (CSV)
+- Clean and transform data
+- Calculate total revenue
+- Analyze customer usage
+
+## Tools Used
 - Python
-- SQL
-- Data Cleaning
-- Revenue Analysis
+- Pandas
 
-## Goal
-To build real-world data engineering projects for portfolio.
+## Output
+- Clean dataset
+- Revenue summary
+- Customer usage report
