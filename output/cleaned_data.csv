@@ -1,0 +1,6 @@
+customer_id,name,data_usage_gb,calls_minutes,sms_count,bill_amount,total_usage,bill_category
+101,Asha,12,300,50,900,22.0,Medium
+102,Ravi,8,200,40,700,15.333333333333334,Medium
+103,Meena,20,500,80,1500,36.333333333333336,High
+104,John,5,100,20,400,8.666666666666668,Low
+105,Divya,15,350,60,1100,26.833333333333332,Medium
